@@ -2456,12 +2456,14 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
       "properties": {
-        "nama": "dibelakang"
+        "nama": "dibelakang",
+        "name": "jalan situ"
       },
       "geometry": {
         "coordinates": [
@@ -2734,7 +2736,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "gang utama"
+        "nama": "gang utama",
+        "name": "jalan situ"
       },
       "geometry": {
         "coordinates": [
@@ -3280,7 +3283,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "dekat tol"
+        "nama": "dekat tol",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -3553,7 +3557,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "gang kota"
+        "nama": "gang kota",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -4099,7 +4104,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -4372,7 +4378,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -4645,7 +4652,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -4918,7 +4926,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -5191,7 +5200,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -5464,7 +5474,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -5737,7 +5748,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -6283,7 +6295,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -6556,7 +6569,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -6829,7 +6843,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -7102,7 +7117,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -7375,7 +7391,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -7648,7 +7665,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -7921,7 +7939,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -8194,7 +8213,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -8467,7 +8487,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -8745,7 +8766,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -9018,7 +9040,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -9564,7 +9587,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "purwakarta zay"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -9836,7 +9861,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -10110,7 +10136,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -10384,7 +10411,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -10658,7 +10686,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "coordinates": [
@@ -10932,7 +10961,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -11206,7 +11236,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -11480,7 +11511,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -11753,7 +11785,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "purwakarta zay"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -12026,7 +12060,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -12300,7 +12335,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -12574,7 +12610,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -12848,7 +12885,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -13122,7 +13160,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
@@ -13396,7 +13435,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nama": "purwakarta tengah"
+        "nama": "purwakarta tengah",
+        "name": "purwakarta zay"
       },
       "geometry": {
         "type": "Polygon",
