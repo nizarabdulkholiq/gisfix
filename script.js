@@ -1,10 +1,7 @@
 // Create a map
 const map = L.map("map").setView([-6.5649241, 107.4321959], 12);
 
-// Add a Tile Layer (use OpenStreetMap)
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-}).addTo(map);
+
 
 // Function to add GeoJSON data to the map and table
 function addGeoJSONToMapAndTable(geoJSONUrl, map, table) {
